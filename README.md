@@ -1,2 +1,2 @@
 # Reset-Outlook-Classic-Cache
-Run .bat file as administrator
+Run batch file as administrator
